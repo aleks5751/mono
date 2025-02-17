@@ -1,6 +1,6 @@
 [submodule "application"]
 	path = application
-	url = ./application
+	url = https://github.com/aleks5751/application.git
 [submodule "module1"]
 	path = module1
-	url = ./module1
+	url = https://github.com/aleks5751/module1.git
